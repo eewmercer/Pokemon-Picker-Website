@@ -18,6 +18,11 @@ header {
     margin-bottom: 100px;
     padding: 50px;
     background-color: white;
+
+    li {
+        list-style-type: none;
+        font-size: 45px;
+    }
 }
 
 main {
@@ -90,9 +95,10 @@ ul {
     gap: 75px;
 }
 
-li {
-    list-style-type: none;
-    font-size: 45px;
+ol {
+    margin-left: 200px;
+    font-size: 20px;
+    line-height: 1.5;
 }
 
 a {
