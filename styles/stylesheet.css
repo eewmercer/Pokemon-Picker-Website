@@ -113,6 +113,10 @@ a {
     flex-direction: row;
     gap: 50px;
     justify-content: center;
+
+    a {
+        text-shadow: none;
+    }
 }
 
 .grass-button {
